@@ -1,1 +1,6 @@
-
+streamlit
+openai-whisper
+sentence-transformers
+scikit-learn
+numpy
+requests
